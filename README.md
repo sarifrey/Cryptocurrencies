@@ -6,11 +6,13 @@ Accountability Accounties wants to offer a cryptocurrency investment portfolio. 
 Data visulation is used to present the data findings.
 
 ### Elbow Curve
-!alt
 
-### 3D Scatter Cluster Plot
-!alt
+![alt text](https://github.com/sarifrey/Cryptocurrencies/blob/main/Resources/ElbowCurve.jpg)
 
-### hvplot Scatter
-!alt
+### 3D Scatter with Clusters
 
+![alt text](https://github.com/sarifrey/Cryptocurrencies/blob/main/Resources/3DScatterCluster.jpg)
+
+### hvplot Scatter plot
+
+![alt text](https://github.com/sarifrey/Cryptocurrencies/blob/main/Resources/hvplotscatter.jpg)
